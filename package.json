@@ -1,0 +1,22 @@
+{
+  "name": "war_fro_s_24_furry_game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michajek/WAR_FRO_S_24_Furry_Game.git"
+  },
+  "author": "Michaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michajek/WAR_FRO_S_24_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/Michajek/WAR_FRO_S_24_Furry_Game#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}

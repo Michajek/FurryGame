@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Michajek/WAR_FRO_S_24_Furry_Game.git"
+    "url": "git+https://github.com/FurryGame.git"
   },
   "author": "Michaj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Michajek/WAR_FRO_S_24_Furry_Game/issues"
+    "url": "https://github.com/Michajek/FurryGame/issues"
   },
-  "homepage": "https://github.com/Michajek/WAR_FRO_S_24_Furry_Game#readme",
+  "homepage": "https://github.com/Michajek/FurryGame#readme",
   "devDependencies": {
     "webpack": "^3.6.0"
   }
